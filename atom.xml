@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://henbudidiao.github.io/</id>
+    <title>Bright Fang的个人网站</title>
+    <updated>2023-02-26T08:10:38.971Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://henbudidiao.github.io/"/>
+    <link rel="self" href="https://henbudidiao.github.io/atom.xml"/>
+    <subtitle>&lt;p style=&quot;color:red;&quot;&gt;Bright Fang&lt;/p&gt;</subtitle>
+    <logo>https://henbudidiao.github.io/images/avatar.png</logo>
+    <icon>https://henbudidiao.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Bright Fang的个人网站</rights>
+    <entry>
+        <title type="html"><![CDATA[分布式多进程加速DQN算法]]></title>
+        <id>https://henbudidiao.github.io/post/fen-bu-shi-duo-jin-cheng-jia-su-dqn-suan-fa/</id>
+        <link href="https://henbudidiao.github.io/post/fen-bu-shi-duo-jin-cheng-jia-su-dqn-suan-fa/">
+        </link>
+        <updated>2023-02-24T10:09:49.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/578594585"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一份不太简洁的Pymunk教程（一）]]></title>
+        <id>https://henbudidiao.github.io/post/yi-fen-bu-tai-jian-ji-de-pymunk-jiao-cheng-yi/</id>
+        <link href="https://henbudidiao.github.io/post/yi-fen-bu-tai-jian-ji-de-pymunk-jiao-cheng-yi/">
+        </link>
+        <updated>2023-02-24T10:08:31.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/572994714"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDPG代码pytorch框架玩Ant-v3]]></title>
+        <id>https://henbudidiao.github.io/post/ddpg-dai-ma-pytorch-kuang-jia-wan-ant-v3/</id>
+        <link href="https://henbudidiao.github.io/post/ddpg-dai-ma-pytorch-kuang-jia-wan-ant-v3/">
+        </link>
+        <updated>2023-02-24T10:07:34.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/515556468"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actor Critic代码 pytorch框架]]></title>
+        <id>https://henbudidiao.github.io/post/actor-critic-dai-ma-pytorch-kuang-jia/</id>
+        <link href="https://henbudidiao.github.io/post/actor-critic-dai-ma-pytorch-kuang-jia/">
+        </link>
+        <updated>2023-02-24T10:06:30.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/511825440"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[policy gradient代码 pytorch框架]]></title>
+        <id>https://henbudidiao.github.io/post/policy-gradient-dai-ma-pytorch-kuang-jia/</id>
+        <link href="https://henbudidiao.github.io/post/policy-gradient-dai-ma-pytorch-kuang-jia/">
+        </link>
+        <updated>2023-02-24T10:05:19.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/500764612"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增量式PID的P和I怎么理解（三）]]></title>
+        <id>https://henbudidiao.github.io/post/zeng-liang-shi-pid-de-p-he-i-zen-me-li-jie-san/</id>
+        <link href="https://henbudidiao.github.io/post/zeng-liang-shi-pid-de-p-he-i-zen-me-li-jie-san/">
+        </link>
+        <updated>2023-02-24T10:03:44.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/528256437"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增量式PID的P和I怎么理解（二）]]></title>
+        <id>https://henbudidiao.github.io/post/zeng-liang-shi-pid-de-p-he-i-zen-me-li-jie-er/</id>
+        <link href="https://henbudidiao.github.io/post/zeng-liang-shi-pid-de-p-he-i-zen-me-li-jie-er/">
+        </link>
+        <updated>2023-02-24T10:02:43.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/442421737"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增量式PID的P和I怎么理解（一）]]></title>
+        <id>https://henbudidiao.github.io/post/zeng-liang-shi-pid-de-p-he-i-zen-me-li-jie-yi/</id>
+        <link href="https://henbudidiao.github.io/post/zeng-liang-shi-pid-de-p-he-i-zen-me-li-jie-yi/">
+        </link>
+        <updated>2023-02-24T09:57:28.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/426256444"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows10安装开源Mujoco]]></title>
+        <id>https://henbudidiao.github.io/post/windows10-an-zhuang-kai-yuan-mujoco/</id>
+        <link href="https://henbudidiao.github.io/post/windows10-an-zhuang-kai-yuan-mujoco/">
+        </link>
+        <updated>2023-02-24T09:56:29.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/502112539"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows下安装python和pycharm的教程，奶奶都会安装成功的那种]]></title>
+        <id>https://henbudidiao.github.io/post/windows-xia-an-zhuang-python-he-pycharm-de-jiao-cheng-nai-nai-du-hui-an-zhuang-cheng-gong-de-na-chong/</id>
+        <link href="https://henbudidiao.github.io/post/windows-xia-an-zhuang-python-he-pycharm-de-jiao-cheng-nai-nai-du-hui-an-zhuang-cheng-gong-de-na-chong/">
+        </link>
+        <updated>2023-02-24T09:53:30.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/fangchenglia/article/details/108948975?spm=1001.2014.3001.5501"><font color=red size=6><center>点击这里查看全文</center></font></a></p>
+]]></content>
+    </entry>
+</feed>
